@@ -23,7 +23,7 @@ This module simply provides a React component that creates and manages a focus t
 - The focus trap automatically deactivates when unmounted.
 - The focus trap can be activated and deactivated, paused and unpaused via props.
 
-## Installation
+## TEST
 
 ```
 npm install focus-trap-react
